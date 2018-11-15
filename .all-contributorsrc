@@ -1,0 +1,22 @@
+{
+  "projectName": "react-konami-hook",
+  "projectOwner": "alexanderson1993",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "alexanderson1993",
+      "name": "Alex",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6558157?v=4",
+      "profile": "https://ralexanderson.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}

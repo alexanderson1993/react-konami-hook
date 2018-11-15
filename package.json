@@ -1,0 +1,36 @@
+{
+  "name": "react-konami-hook",
+  "version": "1.0.0",
+  "description": "React hook for using the konami code",
+  "main": "index.js",
+  "repository": "https://github.com/alexanderson1993/react-konami-hook",
+  "author": "Alex Anderson <alexanderson1993@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "konami"
+  ],
+  "files": [
+    "index.*"
+  ],
+  "scripts": {
+    "example": "parcel example.html",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "peerDependencies": {
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2"
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^5.4.1",
+    "parcel": "^1.10.3",
+    "raf": "^3.4.0",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2"
+  }
+}
