@@ -1,4 +1,5 @@
 # `React Konami Hook` 👾
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 > React hook for adding the Konami code to your app
@@ -8,6 +9,8 @@
 > subject to change until React 16.7 final.
 >
 > You'll need to install `react`, `react-dom`, etc at `^16.7.0-alpha.2`
+
+[![Edit useKonami hook](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/6v25x8pyyn)
 
 ## Install
 
@@ -67,12 +70,16 @@ npm run example
 
 ## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+Thanks goes to these wonderful people
+([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 | [<img src="https://avatars1.githubusercontent.com/u/6558157?v=4" width="100px;"/><br /><sub><b>Alex</b></sub>](https://ralexanderson.com)<br />[💻](https://github.com/alexanderson1993/react-konami-hook/commits?author=alexanderson1993 "Code") |
 | :---: |
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
+This project follows the
+[all-contributors](https://github.com/kentcdodds/all-contributors)
+specification. Contributions of any kind welcome!
