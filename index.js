@@ -37,7 +37,7 @@ function useKonami(callback = () => {}) {
 
   // Set up the key handler
   useEffect(() => {
-    window.addEventListener("keydown", downHandler);
+    window.addEventListener("keydown", downHandler, { passive: true });
     // Remove event listeners on cleanup
     return () => {
       window.removeEventListener("keydown", downHandler);
