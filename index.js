@@ -32,6 +32,9 @@ function useKonami(callback = () => {}) {
           ? keyState.concat(key).slice(1, 11)
           : keyState.concat(key)
       );
+    } else {
+      // If there is a stray key, cancel the whole konami code
+      setKeys([]);
     }
   };
 
