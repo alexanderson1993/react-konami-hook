@@ -1,6 +1,6 @@
 {
   "name": "react-konami-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook for using the konami code",
   "main": "index.js",
   "repository": "https://github.com/alexanderson1993/react-konami-hook",
